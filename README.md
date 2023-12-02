@@ -43,4 +43,4 @@ Trying out some React patterns of yesteryear.
 
 ### Prop getters
 
-https://techblog.commercetools.com/seven-patterns-by-example-the-many-ways-to-type-radio-in-react-bfe14322bb6f#0cc7
+- https://techblog.commercetools.com/seven-patterns-by-example-the-many-ways-to-type-radio-in-react-bfe14322bb6f#0cc7
