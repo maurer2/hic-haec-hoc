@@ -18,6 +18,7 @@ Trying out some React patterns of yesteryear.
 - https://medium.com/@NicolasCordin/the-four-react-patterns-i-use-the-most-in-2018-f3156923c7ff#3f52
 - https://iq.js.org/questions/react/what-is-the-purpose-of-forward-ref-in-hocs
 - https://react-typescript-cheatsheet.netlify.app/docs/hoc/full_example/
+- https://blog.logrocket.com/understanding-react-higher-order-components/
 
 ### Render props
 
